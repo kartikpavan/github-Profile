@@ -22,11 +22,11 @@
 [![website](./linkedin.svg)](https://www.linkedin.com/in/kartikpavan/) -->
 
 &nbsp;&nbsp;
-[![website](./twitter.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./twitter.svg)](https://twitter.com/kartik_im#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/kartik_im#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./linkedin.svg)](https://www.linkedin.com/in/kartikpavan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kartikpavan#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
