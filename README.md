@@ -18,10 +18,8 @@
 ### Connect with me:
 
 [![website](./twitter.svg)](https://twitter.com/kartik_im)
-&nbsp;&nbsp;
 
 [![website](./linkedin.svg)](https://www.linkedin.com/in/kartikpavan/)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 
